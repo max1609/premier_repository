@@ -4,8 +4,4 @@ Bienvenue
 Chez moi
 fusion
 Conflit
-<<<<<<< Updated upstream
 en cours
-=======
-en cours
->>>>>>> Stashed changes
